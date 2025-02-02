@@ -6,7 +6,7 @@ Bu proje, Mvc dünyasına kurumsal mimari ile code first yaklaşımını kullana
 https://github.com/omerfarukkpala/MvcProjectCamp/assets/101570820/ac124791-030b-467a-bb8c-d3ca18776a41  
      
                          
-                     
+                      
                   
 ## Proje Detayları :      
    
