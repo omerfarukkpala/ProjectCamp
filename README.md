@@ -7,7 +7,7 @@ https://github.com/omerfarukkpala/MvcProjectCamp/assets/101570820/ac124791-030b-
      
                            
                         
-                   
+                    
 ## Proje Detayları :      
    
 ### 1. Model-View-Controller (MVC) Mimarisi:
